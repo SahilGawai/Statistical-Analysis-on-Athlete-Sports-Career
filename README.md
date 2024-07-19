@@ -1,5 +1,5 @@
 # Statistical-Analysis-on-Athlete-Sports-Career
-roject Overview
+Project Overview
 This project focuses on analyzing the career statistics of an athlete using Power BI. The data was collected and organized using Google Sheets, which extracted information from a relevant webpage. The analysis aims to provide comprehensive insights into the athlete's performance over their career.
 
 Objectives
